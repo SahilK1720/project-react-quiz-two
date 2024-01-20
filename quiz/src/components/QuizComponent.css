@@ -1,5 +1,9 @@
+body{
+    background-color: rgb(71,57,141);
+    font-family: 'Fredoka', sans-serif;
+}
+
 .quiz-container{
-    margin-top: 80vh;
     display: flex;
     flex-direction: column;
     background-color: rgb(255, 255, 255);
